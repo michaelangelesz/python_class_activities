@@ -1,0 +1,7 @@
+and then when I change the text in the file,
+
+and then I call the function again,
+
+it updates the other 2 files.
+
+even if they were already created.
